@@ -44,7 +44,8 @@ CameraRental-App/
         ├── Wallet.java
         ├── CameraRentalApp.java
         └── CameraMain.java
-📌 Note
+
+ Note
 =========
 * This is a console-based demo project — no persistent storage is implemented yet. All data is lost upon application exit. Future improvements could include:
 * Persistent storage using files or databases
